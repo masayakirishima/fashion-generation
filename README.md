@@ -3,7 +3,8 @@
 ## Reference
 Gtihub \
     - https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning \
-    - https://github.com/huggingface/diffusers/tree/main/examples/text_to_image
+    - https://github.com/huggingface/diffusers/tree/main/examples/text_to_image \
+    - https://github.com/justinpinkney/stable-diffusion
 
 Dataset \
     - https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset?resource=download \
